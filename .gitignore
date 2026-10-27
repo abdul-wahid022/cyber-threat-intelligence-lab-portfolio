@@ -1,0 +1,9 @@
+# Never publish samples or unpacked payloads
+*.exe
+*.dll
+*.elf
+*.so
+*.bin
+*.zip
+*.7z
+*.rar
